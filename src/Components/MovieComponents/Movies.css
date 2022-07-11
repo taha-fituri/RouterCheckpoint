@@ -1,0 +1,33 @@
+.moviediv {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  padding-top: 2%;
+  margin: 0 9%;
+  flex-wrap: wrap;
+}
+.Card {
+  background-color: rgb(38, 38, 38) !important;
+  color: white;
+}
+.Cardcontain {
+  margin: 1%;
+}
+.detailsdiv {
+  background-color: rgb(38, 38, 38) !important;
+  border-radius: 6px;
+  margin-top: 5%;
+  padding-bottom: 3%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.rate-name {
+  padding: 4%;
+  margin: 2%;
+}
+.button-rate {
+  padding-top: 4%;
+  padding-bottom: 1%;
+}
